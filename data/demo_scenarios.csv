@@ -1,0 +1,6 @@
+site_name,rain_1h_mm,rain_24h_mm,rain_72h_mm,slope_deg,soil_moisture_pct,landcover_disturbance,geology_susceptibility,drainage_impairment,past_landslide,description
+Ridge View,2,12,28,16,22,0.1,2,1,0,Illustrative low-trigger scenario
+Pine Bend,12,78,155,31,62,0.4,3,3,0,Illustrative wet-slope scenario
+Valley Cut,24,142,265,39,86,0.7,4,4,1,Illustrative multiple-factor scenario
+Monsoon Pass,18,105,220,34,74,0.5,4,3,1,Illustrative rainfall and history scenario
+Stable Bench,1,8,18,9,18,0.0,1,1,0,Illustrative low-factor scenario
